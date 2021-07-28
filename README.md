@@ -2,7 +2,7 @@
 
 Olá pessoal!
 
- Nesse pequeno trabalho eu resolvi um desafio que no site Frontend Mentor oferece para seus usuários. Nessa desafio eles propunharam em construir um componente de cartão e fazê-lo parecer o mais próximo possível do design possível utilizando qualquer ferramenta que desejar, portanto eu utilizei o VSCode como IDE e para estrutura eu desenvolvi em HTML5 e css externo sem Framework.
+Nesse pequeno trabalho eu resolvi um desafio que no site Frontend Mentor que oferece para seus usuários. Nesse desafio eles propunham em construir um componente de cartão e fazê-lo parecer o mais próximo possível do design possível utilizando qualquer ferramenta que desejar, portanto eu utilizei o VSCode como IDE e para estrutura eu desenvolvi em HTML5 e CSS3 externo sem Framework.
 
 Abaixo é o resultado final para desktop!
 ![Modelo_desktop](https://user-images.githubusercontent.com/82912476/127365541-a2eff4a0-76cb-44b2-8607-ffa0fe530b28.png)
