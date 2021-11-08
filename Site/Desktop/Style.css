@@ -1,0 +1,73 @@
+    @import url('https://fonts.google.com/specimen/Inter');
+    @import url('https://fonts.google.com/specimen/Lexend+Deca');
+
+    body{
+        background-color: hsl(233, 47%, 7%);
+        font-size: 15pt;
+    }
+
+    div.Principal{
+        background-color:  hsl(244, 38%, 16%);
+        display: flex;
+        align-items: center;
+        width: 1440px;
+        margin: 220px;
+    }
+
+    div.Segunda-E{
+       width: 720px;
+       margin-left: 100px;
+       margin-right: 100px;
+       margin-top: 15px;
+       margin-bottom: 150px;
+       height: 300px;
+    }
+
+    div.Segunda-D{
+        width: 720px;
+        background-color:  hsl(277, 64%, 61%);
+        height: 578.3px;
+    }
+
+    h1{
+        font-family: Lexend Deca, sans-serif;
+        color: hsl(0, 0%, 100%);
+        font-weight: 400;
+        font-weight: bold;
+        
+    }
+    .insights{
+        color: hsl(277, 64%, 61%);
+
+    }
+    p{
+        color: hsla(0, 0%, 100%, 0.75);
+        font-family: Inter, sans-serif;
+        font-weight: 400 , 700;
+    }
+    img.imagem{
+        width: 720px;
+        height: 578px;
+        opacity: 0.45;
+    }
+
+
+    div.Colunas{
+        display: table;
+        width: 520px;
+        height: 100px;
+    }
+    
+    div.coluna1,.coluna2,.coluna3{
+        display: table-cell;
+        vertical-align: middle;
+        font-family: Lexend Deca, sans-serif;
+    }
+
+    div.titulo,.texto{
+        margin-bottom: 50px;
+    }
+
+    div.texto{
+        line-height: 30px;
+    }

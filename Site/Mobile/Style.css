@@ -1,0 +1,78 @@
+    @import url('https://fonts.google.com/specimen/Inter');
+    @import url('https://fonts.google.com/specimen/Lexend+Deca');
+
+    body{
+        background-color: hsl(233, 47%, 7%);
+        font-size: 15pt;
+        width: 480px;
+        height: 1100px;
+    }
+
+    div.Principal{
+        background-color:  hsl(244, 38%, 16%);
+        align-items: center;
+        width: 375px;
+        height: 1000px;
+        margin-left: 3px;
+        margin-bottom: 50px;
+        margin-right: 3px;
+        margin-top: 50px;
+        border-radius: 15px;
+    }
+
+
+    h1{
+        font-family: Lexend Deca, sans-serif;
+        color: hsl(0, 0%, 100%);
+        font-weight: 400;
+        font-weight: bold;
+        text-align: center;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 30px;
+        font-size: 26pt;
+    }
+    .insights{
+        color: hsl(277, 64%, 61%);
+        text-align: center;
+    }
+    p{
+        color: hsla(0, 0%, 100%, 0.75);
+        font-family: Inter, sans-serif;
+        font-weight: 400 , 700;
+        text-align: center;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 45px;
+    }
+    img{
+        width: 100%;
+        height: 280px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        opacity: 0.45;
+    }
+    
+    div.coluna1,.coluna2,.coluna3{
+        font-family: Lexend Deca, sans-serif;
+        margin-top: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+        
+    }
+
+    div.titulo,.texto{
+        margin-bottom: 30px;
+    }
+  
+
+    div.texto{
+        line-height: 30px;
+    }
+    
+    div.imagem{
+        background-color: hsl(277, 64%, 61%);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        height: 280px;
+    }
